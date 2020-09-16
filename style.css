@@ -2,22 +2,30 @@
     background-image: url(background.jpg);
     background-repeat: no-repeat; 
     background-position: center ;
-    margin: 0;
+    margin: 0 20% 0 0;
     color: aliceblue;
     
 }
 .main-list {
     font-size: 20px;
-    margin-left: 10%;
+    margin-left: auto;
     
 }
 .inserted-list {
     font-size: 80%;
+    color: rgb(144, 212, 214);
     
 }.header {
     text-align: right;
+    color: burlywood;
+}
+ol {
+    margin-left: 20%;
 }
 li {
     margin-bottom: 20px;
+}
+.avatar {
+    float: right;
 }
 
